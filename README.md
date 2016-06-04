@@ -1,6 +1,6 @@
-# ubuntu-vagrant
+# couchdb-vagrant
 
-A quick way to get an updated ubuntu VM set up
+A quick way to get a VM running couchdb setup
 
 
 Install Vagrant, VirtualBox and git
