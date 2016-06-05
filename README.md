@@ -1,6 +1,6 @@
 # couchdb-vagrant
 
-A quick way to get a VM running couchdb setup
+A quick way to set up a VM running couchdb
 
 
 Install Vagrant, VirtualBox and git
